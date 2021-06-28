@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTeleMedicina.WebAPI", "PortalTeleMedicina.WebAPI\PortalTeleMedicina.WebAPI.csproj", "{A2887024-4803-40ED-BA7F-AEDB52193D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTeleMedicina.Infra", "PortalTeleMedicina.Infra\PortalTeleMedicina.Infra.csproj", "{F11C0863-32B9-44B5-9A03-E50B4A6A4378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortalTeleMedicina.Dominio", "PortalTeleMedicina.Dominio\PortalTeleMedicina.Dominio.csproj", "{B6258F9B-6058-41D6-8F6F-D576C4A5BF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2887024-4803-40ED-BA7F-AEDB52193D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2887024-4803-40ED-BA7F-AEDB52193D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2887024-4803-40ED-BA7F-AEDB52193D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2887024-4803-40ED-BA7F-AEDB52193D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F11C0863-32B9-44B5-9A03-E50B4A6A4378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11C0863-32B9-44B5-9A03-E50B4A6A4378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11C0863-32B9-44B5-9A03-E50B4A6A4378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11C0863-32B9-44B5-9A03-E50B4A6A4378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6258F9B-6058-41D6-8F6F-D576C4A5BF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6258F9B-6058-41D6-8F6F-D576C4A5BF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6258F9B-6058-41D6-8F6F-D576C4A5BF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6258F9B-6058-41D6-8F6F-D576C4A5BF57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B59B7765-67F5-4392-BA30-51C7A4E91229}
+	EndGlobalSection
+EndGlobal

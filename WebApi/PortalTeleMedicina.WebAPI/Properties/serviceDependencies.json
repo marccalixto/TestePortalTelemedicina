@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": "",
+      "suggestion": "true",
+      "ignored": "true"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:AzureConnection",
+      "suggestion": "true",
+      "ignored": "true"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
