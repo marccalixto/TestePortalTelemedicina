@@ -29,8 +29,8 @@ $ npm start
 
 ```
  ## WebApi project
-$ https://portaltelemedicinawebapiapiv2.azure-api.net/v1/api/signin
-  
+$ https://portaltelemedicinanovoapimanagement.azure-api.net/v1/api/Signin 
+   
  ## WebClient project
 $ http://portaltelemedicinawebclientteste.azurewebsites.net/
 ```
