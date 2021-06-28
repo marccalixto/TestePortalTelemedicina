@@ -8,7 +8,7 @@ Assuntos abordados :
 ## Baixe o código
 
 ```
-$ git clone https://github.com/marccalixto/PortalTeleMedicina.git
+$ git clone https://github.com/marccalixto/TestePortalTelemedicina.git
 
  ## WebApi project
 $ cd PortalTeleMedicina
