@@ -22,7 +22,7 @@ $ cd PortalTeleMedicina
 $ cd WebClient
 $ npm install
 //run the app
-$ ng start
+$ npm start
 ```
 
 ## Caso queira utilizar a versão publicada na nuvem, acesse os endereços abaixo:
